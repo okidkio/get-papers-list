@@ -81,3 +81,4 @@ poetry run pytest
 Shiwani Wasnik
 https://github.com/okidkio
 Email: wasnikshiwani6@gmail.com
+Fix: Improve folder structure formatting in README
