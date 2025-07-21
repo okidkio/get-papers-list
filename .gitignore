@@ -1,0 +1,30 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Poetry
+.poetry/
+*.lock
+dist/
+build/
+.cache/
+
+# Test cache
+.pytest_cache/
+.coverage
+
+# Virtual envs (if any local)
+.env
+.venv/
+
+# VSCode
+.vscode/
+
+# Output files
+result.csv
+output.csv
+
+# Jupyter
+.ipynb_checkpoints/
